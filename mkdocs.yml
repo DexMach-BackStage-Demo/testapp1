@@ -1,0 +1,8 @@
+site_name: "testapp1"
+site_description: "This is a test application, sure hope it works!"
+
+nav:
+- Introduction: index.md
+
+plugins:
+- techdocs-core
